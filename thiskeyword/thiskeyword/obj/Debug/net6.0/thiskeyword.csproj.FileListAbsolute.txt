@@ -1,0 +1,15 @@
+F:\sanjay\thiskeyword\thiskeyword\bin\Debug\net6.0\thiskeyword.exe
+F:\sanjay\thiskeyword\thiskeyword\bin\Debug\net6.0\thiskeyword.deps.json
+F:\sanjay\thiskeyword\thiskeyword\bin\Debug\net6.0\thiskeyword.runtimeconfig.json
+F:\sanjay\thiskeyword\thiskeyword\bin\Debug\net6.0\thiskeyword.dll
+F:\sanjay\thiskeyword\thiskeyword\bin\Debug\net6.0\thiskeyword.pdb
+F:\sanjay\thiskeyword\thiskeyword\obj\Debug\net6.0\thiskeyword.csproj.AssemblyReference.cache
+F:\sanjay\thiskeyword\thiskeyword\obj\Debug\net6.0\thiskeyword.GeneratedMSBuildEditorConfig.editorconfig
+F:\sanjay\thiskeyword\thiskeyword\obj\Debug\net6.0\thiskeyword.AssemblyInfoInputs.cache
+F:\sanjay\thiskeyword\thiskeyword\obj\Debug\net6.0\thiskeyword.AssemblyInfo.cs
+F:\sanjay\thiskeyword\thiskeyword\obj\Debug\net6.0\thiskeyword.csproj.CoreCompileInputs.cache
+F:\sanjay\thiskeyword\thiskeyword\obj\Debug\net6.0\thiskeyword.dll
+F:\sanjay\thiskeyword\thiskeyword\obj\Debug\net6.0\refint\thiskeyword.dll
+F:\sanjay\thiskeyword\thiskeyword\obj\Debug\net6.0\thiskeyword.pdb
+F:\sanjay\thiskeyword\thiskeyword\obj\Debug\net6.0\thiskeyword.genruntimeconfig.cache
+F:\sanjay\thiskeyword\thiskeyword\obj\Debug\net6.0\ref\thiskeyword.dll

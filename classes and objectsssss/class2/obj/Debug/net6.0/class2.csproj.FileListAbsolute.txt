@@ -1,0 +1,15 @@
+F:\sanjay\classes and objectsssss\class2\bin\Debug\net6.0\class2.exe
+F:\sanjay\classes and objectsssss\class2\bin\Debug\net6.0\class2.deps.json
+F:\sanjay\classes and objectsssss\class2\bin\Debug\net6.0\class2.runtimeconfig.json
+F:\sanjay\classes and objectsssss\class2\bin\Debug\net6.0\class2.dll
+F:\sanjay\classes and objectsssss\class2\bin\Debug\net6.0\class2.pdb
+F:\sanjay\classes and objectsssss\class2\obj\Debug\net6.0\class2.csproj.AssemblyReference.cache
+F:\sanjay\classes and objectsssss\class2\obj\Debug\net6.0\class2.GeneratedMSBuildEditorConfig.editorconfig
+F:\sanjay\classes and objectsssss\class2\obj\Debug\net6.0\class2.AssemblyInfoInputs.cache
+F:\sanjay\classes and objectsssss\class2\obj\Debug\net6.0\class2.AssemblyInfo.cs
+F:\sanjay\classes and objectsssss\class2\obj\Debug\net6.0\class2.csproj.CoreCompileInputs.cache
+F:\sanjay\classes and objectsssss\class2\obj\Debug\net6.0\class2.dll
+F:\sanjay\classes and objectsssss\class2\obj\Debug\net6.0\refint\class2.dll
+F:\sanjay\classes and objectsssss\class2\obj\Debug\net6.0\class2.pdb
+F:\sanjay\classes and objectsssss\class2\obj\Debug\net6.0\class2.genruntimeconfig.cache
+F:\sanjay\classes and objectsssss\class2\obj\Debug\net6.0\ref\class2.dll

@@ -1,0 +1,15 @@
+F:\sanjay\properties\properties\bin\Debug\net6.0\properties.exe
+F:\sanjay\properties\properties\bin\Debug\net6.0\properties.deps.json
+F:\sanjay\properties\properties\bin\Debug\net6.0\properties.runtimeconfig.json
+F:\sanjay\properties\properties\bin\Debug\net6.0\properties.dll
+F:\sanjay\properties\properties\bin\Debug\net6.0\properties.pdb
+F:\sanjay\properties\properties\obj\Debug\net6.0\properties.csproj.AssemblyReference.cache
+F:\sanjay\properties\properties\obj\Debug\net6.0\properties.GeneratedMSBuildEditorConfig.editorconfig
+F:\sanjay\properties\properties\obj\Debug\net6.0\properties.AssemblyInfoInputs.cache
+F:\sanjay\properties\properties\obj\Debug\net6.0\properties.AssemblyInfo.cs
+F:\sanjay\properties\properties\obj\Debug\net6.0\properties.csproj.CoreCompileInputs.cache
+F:\sanjay\properties\properties\obj\Debug\net6.0\properties.dll
+F:\sanjay\properties\properties\obj\Debug\net6.0\refint\properties.dll
+F:\sanjay\properties\properties\obj\Debug\net6.0\properties.pdb
+F:\sanjay\properties\properties\obj\Debug\net6.0\properties.genruntimeconfig.cache
+F:\sanjay\properties\properties\obj\Debug\net6.0\ref\properties.dll

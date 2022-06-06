@@ -1,0 +1,15 @@
+F:\sanjay\try-catch\try-catch\bin\Debug\net6.0\try-catch.exe
+F:\sanjay\try-catch\try-catch\bin\Debug\net6.0\try-catch.deps.json
+F:\sanjay\try-catch\try-catch\bin\Debug\net6.0\try-catch.runtimeconfig.json
+F:\sanjay\try-catch\try-catch\bin\Debug\net6.0\try-catch.dll
+F:\sanjay\try-catch\try-catch\bin\Debug\net6.0\try-catch.pdb
+F:\sanjay\try-catch\try-catch\obj\Debug\net6.0\try-catch.csproj.AssemblyReference.cache
+F:\sanjay\try-catch\try-catch\obj\Debug\net6.0\try-catch.GeneratedMSBuildEditorConfig.editorconfig
+F:\sanjay\try-catch\try-catch\obj\Debug\net6.0\try-catch.AssemblyInfoInputs.cache
+F:\sanjay\try-catch\try-catch\obj\Debug\net6.0\try-catch.AssemblyInfo.cs
+F:\sanjay\try-catch\try-catch\obj\Debug\net6.0\try-catch.csproj.CoreCompileInputs.cache
+F:\sanjay\try-catch\try-catch\obj\Debug\net6.0\try-catch.dll
+F:\sanjay\try-catch\try-catch\obj\Debug\net6.0\refint\try-catch.dll
+F:\sanjay\try-catch\try-catch\obj\Debug\net6.0\try-catch.pdb
+F:\sanjay\try-catch\try-catch\obj\Debug\net6.0\try-catch.genruntimeconfig.cache
+F:\sanjay\try-catch\try-catch\obj\Debug\net6.0\ref\try-catch.dll
